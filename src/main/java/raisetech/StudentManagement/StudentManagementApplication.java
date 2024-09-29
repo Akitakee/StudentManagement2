@@ -15,5 +15,3 @@ public class StudentManagementApplication {
 
 
 }
-//test
-//Githubの接続テスト
